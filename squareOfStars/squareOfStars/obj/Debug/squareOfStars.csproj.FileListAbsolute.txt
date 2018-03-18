@@ -1,0 +1,6 @@
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\squareOfStars\squareOfStars\bin\Debug\squareOfStars.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\squareOfStars\squareOfStars\bin\Debug\squareOfStars.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\squareOfStars\squareOfStars\bin\Debug\squareOfStars.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\squareOfStars\squareOfStars\obj\Debug\squareOfStars.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\squareOfStars\squareOfStars\obj\Debug\squareOfStars.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\squareOfStars\squareOfStars\obj\Debug\squareOfStars.csprojResolveAssemblyReference.cache

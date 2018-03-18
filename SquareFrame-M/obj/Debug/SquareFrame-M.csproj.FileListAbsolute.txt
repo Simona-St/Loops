@@ -1,0 +1,6 @@
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SquareFrame-M\bin\Debug\SquareFrame-M.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SquareFrame-M\bin\Debug\SquareFrame-M.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SquareFrame-M\bin\Debug\SquareFrame-M.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SquareFrame-M\obj\Debug\SquareFrame-M.csprojResolveAssemblyReference.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SquareFrame-M\obj\Debug\SquareFrame-M.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SquareFrame-M\obj\Debug\SquareFrame-M.pdb

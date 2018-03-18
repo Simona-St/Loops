@@ -1,0 +1,6 @@
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SunGlasses M\bin\Debug\SunGlasses M.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SunGlasses M\bin\Debug\SunGlasses M.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SunGlasses M\bin\Debug\SunGlasses M.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SunGlasses M\obj\Debug\SunGlasses M.csprojResolveAssemblyReference.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SunGlasses M\obj\Debug\SunGlasses M.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\SunGlasses M\obj\Debug\SunGlasses M.pdb
