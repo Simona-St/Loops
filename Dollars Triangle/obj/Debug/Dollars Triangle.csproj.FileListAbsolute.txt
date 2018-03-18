@@ -1,0 +1,5 @@
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\Dollars Triangle\bin\Debug\Dollars Triangle.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\Dollars Triangle\bin\Debug\Dollars Triangle.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\Dollars Triangle\bin\Debug\Dollars Triangle.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\Dollars Triangle\obj\Debug\Dollars Triangle.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\Dollars Triangle\obj\Debug\Dollars Triangle.pdb

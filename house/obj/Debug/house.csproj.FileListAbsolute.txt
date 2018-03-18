@@ -1,0 +1,13 @@
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\house\bin\Debug\house.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\house\bin\Debug\house.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\house\bin\Debug\house.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\house\obj\Debug\house.csprojResolveAssemblyReference.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\house\obj\Debug\house.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\6. Drawing with Loops\house\obj\Debug\house.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\Basics\6. Drawing with Loops\house\bin\Debug\house.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\Basics\6. Drawing with Loops\house\bin\Debug\house.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\Basics\6. Drawing with Loops\house\bin\Debug\house.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\Basics\6. Drawing with Loops\house\obj\Debug\house.csprojResolveAssemblyReference.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\Basics\6. Drawing with Loops\house\obj\Debug\house.csproj.CoreCompileInputs.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\Basics\6. Drawing with Loops\house\obj\Debug\house.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\Basics\6. Drawing with Loops\house\obj\Debug\house.pdb
