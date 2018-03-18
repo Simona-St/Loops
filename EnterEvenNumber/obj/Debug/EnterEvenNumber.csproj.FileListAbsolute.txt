@@ -1,0 +1,6 @@
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

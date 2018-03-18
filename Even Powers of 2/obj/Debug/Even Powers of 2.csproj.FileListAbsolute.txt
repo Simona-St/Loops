@@ -1,0 +1,6 @@
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\Even Powers of 2\bin\Debug\Even Powers of 2.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\Even Powers of 2\obj\Debug\Even Powers of 2.csprojResolveAssemblyReference.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\Even Powers of 2\obj\Debug\Even Powers of 2.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\7. Complex Loops\Even Powers of 2\obj\Debug\Even Powers of 2.pdb
