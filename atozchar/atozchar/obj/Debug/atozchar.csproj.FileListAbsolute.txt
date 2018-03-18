@@ -1,0 +1,5 @@
+C:\Users\MonnMonn\Desktop\atozchar\atozchar\bin\Debug\atozchar.exe.config
+C:\Users\MonnMonn\Desktop\atozchar\atozchar\bin\Debug\atozchar.exe
+C:\Users\MonnMonn\Desktop\atozchar\atozchar\bin\Debug\atozchar.pdb
+C:\Users\MonnMonn\Desktop\atozchar\atozchar\obj\Debug\atozchar.exe
+C:\Users\MonnMonn\Desktop\atozchar\atozchar\obj\Debug\atozchar.pdb

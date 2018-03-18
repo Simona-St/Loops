@@ -1,0 +1,7 @@
+c:\users\monnmonn\documents\visual studio 2015\Projects\EqualPairs\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\5. Loops\EqualPairs\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\5. Loops\EqualPairs\EqualPairs\bin\Debug\EqualPairs.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\5. Loops\EqualPairs\EqualPairs\bin\Debug\EqualPairs.pdb
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\5. Loops\EqualPairs\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\5. Loops\EqualPairs\EqualPairs\obj\Debug\EqualPairs.exe
+C:\Users\MonnMonn\Documents\Visual Studio 2015\Projects\5. Loops\EqualPairs\EqualPairs\obj\Debug\EqualPairs.pdb
