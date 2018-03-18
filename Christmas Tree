@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace elha_s_new_string
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+
+            for (int rows = 0; rows <= n; rows++)
+            {
+
+                var spaces = ' ';
+                var stars = '*';
+                Console.Write(new string(spaces, n-rows));
+                Console.Write(new string(stars, rows));
+                 Console.Write(" | ");
+                Console.Write(new string(stars, rows));
+                Console.Write(new string(spaces, n - rows));
+                Console.WriteLine();
+            }
+        }
+    }
+}
